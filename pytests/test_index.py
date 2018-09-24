@@ -19,7 +19,7 @@ def test_travel_month():
 
 def test_number_of_weeks():
     assert number_of_weeks is not None, "Remember to reassign the num_of_weeks variable"
-    assert num_of_weeks is 3 or 5, "Follow the instructions to find the correct number of weeks we will travel"
+    assert number_of_weeks is 3 or 5, "Follow the instructions to find the correct number of weeks we will travel"
 
 def test_travelling_schedule():
     assert travelling_schedule is not None, "Remember to reassign the travel_month variable"
