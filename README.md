@@ -7,7 +7,8 @@ Now that we know about variables, we want to put them to use by associating them
 Just as before, we ask you to run the code and ensure that it matches what is commented out.
 
 ## Objectives
-* Understand and explain the concept of variables
+You will be able to:
+* Understand, explain and use variables
 
 ## Assigning variables
 
@@ -60,4 +61,4 @@ travelling_schedule = None
 
 ### Summary
 
-Great! In this lab, we were able to get a sense how to store information in variables through assignment and reassignment.
+Great! In this lab, we were able to get some more practice with storing information in variables through assignment and reassignment.
