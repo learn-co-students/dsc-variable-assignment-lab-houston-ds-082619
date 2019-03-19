@@ -80,6 +80,6 @@ travelling_schedule
 
 
 
-### Summary
+## Summary
 
 Great! In this lab, we were able to get a sense how to store information in variables through assignment and reassignment.
