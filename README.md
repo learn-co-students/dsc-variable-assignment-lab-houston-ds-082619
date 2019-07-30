@@ -19,12 +19,31 @@ Assign a variable of `travel_month` equal to the string "January", as that is th
 travel_month = None
 ```
 
+
+```python
+# __SOLUTION__ 
+travel_month = "January"
+```
+
 > We start by setting the variable equal to the data type None.  As we know, `None` represents the absence of a value. Now we can take care of assigning the variable to something other than `None`.
 
 
 ```python
 travel_month # "January"
 ```
+
+
+```python
+# __SOLUTION__ 
+travel_month # "January"
+```
+
+
+
+
+    'January'
+
+
 
 Now let's assign a variable equal to the number of weeks that we would like to travel, 3. 
 
@@ -35,14 +54,39 @@ number_of_weeks = None
 
 
 ```python
+# __SOLUTION__ 
+number_of_weeks = 3
+```
+
+
+```python
 number_of_weeks # 3
 ```
+
+
+```python
+# __SOLUTION__ 
+number_of_weeks # 3
+```
+
+
+
+
+    3
+
+
 
 UPDATE: we just learned that we can travel for a longer period of time. So, we need to reassign the `number_of_weeks` variable equal to `5`.
 
 
 ```python
 number_of_weeks # 5
+```
+
+
+```python
+# __SOLUTION__ 
+number_of_weeks = 5# 5
 ```
 
 Now that's more like it.
@@ -58,6 +102,20 @@ Finally, let's create a string that uses both of these variables to tell us how 
 ```python
 travelling_schedule = None
 ```
+
+
+```python
+# __SOLUTION__ 
+travelling_schedule = f"I will be travelling {number_of_weeks} weeks starting in the month of {travel_month}"
+travelling_schedule
+```
+
+
+
+
+    'I will be travelling 5 weeks starting in the month of January'
+
+
 
 ### Summary
 
