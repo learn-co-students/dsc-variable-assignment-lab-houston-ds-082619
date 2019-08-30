@@ -47,7 +47,7 @@ number_of_weeks # 5
 
 Now that's more like it.
 
-Finally, let's create a string that uses both of these variables to tell us how many weeks we will be traveling in our travel month. The string should read `"I will be travelling 5 weeks starting in the month of January"`. Interpolate the `num_of_weeks` and `travel_month` to get the correct string.
+Finally, let's create a string that uses both of these variables to tell us how many weeks we will be traveling in our travel month. The string should read `"I will be traveling 5 weeks starting in the month of January"`. The process of using one or more variables as placeholders within a larger string is called **string interpolation**.  Interpolate the `num_of_weeks` and `travel_month` to get the correct string.
 
 > **Remember:** We can interpolate strings in the following ways:
 * "Start of string" + variable_to_interpolate1 + "middle" + variable_to_interpolate2 + "end of string"
@@ -56,7 +56,7 @@ Finally, let's create a string that uses both of these variables to tell us how 
 
 
 ```python
-travelling_schedule = None
+traveling_schedule = None
 ```
 
 ### Summary
