@@ -8,7 +8,7 @@ Just as before, we ask you to run the code and ensure that it matches what is co
 
 ## Objectives
 You will be able to:
-* Understand, explain and use variables
+* Assign and declare a python variable
 
 ## Assigning variables
 
